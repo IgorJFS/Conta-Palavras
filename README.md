@@ -1,0 +1,1 @@
+Projeto simples para contador de palavras e aprendizado de NODEJS
